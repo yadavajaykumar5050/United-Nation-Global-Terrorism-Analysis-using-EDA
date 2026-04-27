@@ -1,5 +1,5 @@
 # United Nation Global Terrorism Analysis — Exploratory Data Analysis (EDA)
-
+![image alt](https://github.com/yadavajaykumar5050/United-Nation-Global-Terrorism-Analysis-using-EDA/blob/main/steps-for-mastering-exploratory-data-analysis.jpg?raw=true)
 # **Project Summary -**
 In this project, I analyzed a global terrorism dataset covering the years 1970 to 2017 to understand how terrorist activities have evolved over time. Since terrorism has a major impact on security, economies, and public safety, the goal was to extract meaningful insights that could help in better decision-making.
 
