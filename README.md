@@ -23,13 +23,23 @@ The goal of this analysis is to support governments, policymakers, and security 
 
 # 📈Key Insight
 Terrorist attacks increased significantly after 2000
+
 Middle East & North Africa region has highest attacks
+
 Terrorism is concentrated in specific countries
+
+
 Bombing and armed assault are most common attack types
+
+
 Few terrorist groups dominate attack frequency
+
 Casualties fluctuate with peaks in certain years
+
 Some countries experience significantly higher casualties
+
 High severity incidents are limited but impactful
+
 
 # 🧹 Data Preprocessing
 The dataset was cleaned and prepared using the following steps:
