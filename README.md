@@ -11,3 +11,18 @@ To better understand the impact, I created a new feature called “total casualt
 
 Overall, this project helped uncover important patterns in global terrorism. The insights can be useful for governments and organizations to identify high-risk areas, improve security strategies, and allocate resources more effectively.
 
+# **Problem Statement**
+The objective of this project is to analyze global terrorism data to uncover patterns, trends, and meaningful insights. It focuses on identifying the most affected regions and countries, understanding how terrorist activities have changed over time, and validating key assumptions—such as whether certain regions experience higher attack frequencies and whether unclaimed attacks result in fewer casualties.
+
+#### **Define Your Business Objective?**
+The goal of this analysis is to support governments, policymakers, and security agencies in better understanding global terrorism patterns. By identifying high-risk regions, tracking trends, and analyzing attack behavior, the project aims to enable data-driven decision-making, improve security planning, and strengthen counter-terrorism strategies.
+
+# Key Insight
+Terrorist attacks increased significantly after 2000
+Middle East & North Africa region has highest attacks
+Terrorism is concentrated in specific countries
+Bombing and armed assault are most common attack types
+Few terrorist groups dominate attack frequency
+Casualties fluctuate with peaks in certain years
+Some countries experience significantly higher casualties
+High severity incidents are limited but impactful
