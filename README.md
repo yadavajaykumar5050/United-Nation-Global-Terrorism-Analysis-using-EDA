@@ -49,7 +49,7 @@ Seaborn
 WordCloud
 Google Colab
 
-## **5. Solution to Business Objective**
+## **Solution to Business Objective**
 To achieve the business objective, the insights from this analysis can be used to identify and prioritize high-risk regions. Governments and security agencies should focus resources on the most affected areas, closely monitor activities of major terrorist groups, and design targeted strategies based on common attack patterns. Implementing interactive dashboards and continuous data monitoring can further support quick, data-driven decision-making and improve overall risk management.
 
 # **Conclusion**.
